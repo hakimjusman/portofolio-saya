@@ -6,7 +6,7 @@
             <div class="lg:col-span-5">
                 <div class="relative group">
                     <div class="relative overflow-hidden rounded-sm shadow-xl bg-gray-200 aspect-[4/3] lg:aspect-[1/1]">
-                        <img src="assets/images/profile.jpg" 
+                        <img src="/assets/images/profile.jpg" 
                              alt="Shinobi Architect Coding" 
                              class="w-full h-full object-cover grayscale contrast-125 group-hover:scale-105 transition-transform duration-500">
                     </div>
